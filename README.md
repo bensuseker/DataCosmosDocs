@@ -1,4 +1,4 @@
-# DataCosmos-CMPE491-
+# DataCosmos
 This repository contains the DataCosmos documentation and project, which is the graduation project.
 
 The project we'll work on will be similar to a system that finds links to items with low-quality labels automatically and displays them to the user, 
